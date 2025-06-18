@@ -1,16 +1,15 @@
 <!-- ――― HEADER ――― -->
-<h1 align="center">Hi, I’m <YOUR NAME> 👋</h1>
+<h1 align="center">Hi, I’m Rishi 👋</h1>
 <p align="center">
-  <em>Researcher • Developer • <specialization></em><br>
+  <em>Researcher • Developer • Inventor</em><br>
   <slogan or one-sentence elevator pitch>
 </p>
 
 <!-- Social / contact buttons (use only what you want) -->
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/email-%2312100E" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2"></a>
-  <a href="https://scholar.google.com/citations?user=XXXX"><img src="https://img.shields.io/badge/Google Scholar-4285F4"></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2"></a>
+  <a href="mailto:hkanade@stevens.edu"><img src="https://img.shields.io/badge/email-%2312100E" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/hrishikesh-kanade-43723399"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2"></a>
+  <a href="https://scholar.google.com/citations?user=Xm7WY4QAAAAJ&hl=en&oi=ao"><img src="https://img.shields.io/badge/Google Scholar-4285F4"></a>
 </p>
 
 ---
