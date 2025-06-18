@@ -1,9 +1,3 @@
----
-# Delete this block if you do not enable Jekyll Pages themes
-layout: default            # “default” is provided by most themes
-title: Your Name • Home    # <title> tag in browser
----
-
 <!-- ――― HEADER ――― -->
 <h1 align="center">Hi, I’m <YOUR NAME> 👋</h1>
 <p align="center">
