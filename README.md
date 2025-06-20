@@ -27,33 +27,37 @@
 ---
 
 ## About
-I’m **<Your Name>**, a <role> at <institution/company>. My work focuses on **<keywords>**.  
+I’m Rishi, a Graduate Research Assistant at Stevens Institute of Technology, Hoboken, New Jersey. My work focuses on 3D computer vision, Machine learning/ Artificial intelligence, deep learning, data acquisition, sensor fusion, electronics, and industrial automation.  
 Key interests include:
 
-- Topic A  
-- Topic B  
-- Topic C  
+- Computer vision 
+- Machine Learning  
+- Automation  
 
-When I’m not coding, you’ll find me <hobbies>.
+When I’m not coding, you’ll find me playing guitar and playing videogames.
 
 ---
+## Patents
+| Year | Title | Patent office | Patent Number | Inventors |
+|------|-------|---------------| ------------- | --------- |
+| 2020 | System for fluid testing and fuel supply | United States of America | US Patent 10,691,144 | Hrishikesh Kanade |
+| 2018 | Inbuilt Fuel Purity Testing System for Automobiles | India | IN Patent 115/MUM/2,015 | Hrishikesh Kanade |
+| 2017 | A virtual reality based robot | India | IN Patent 201,721,004,845 | Hrishikesh Kanade, Shubham Kale, Chintan Shah, Shruti Danve |
 
 ## Research & Publications
 | Year | Title | Venue/Journal |
 |------|-------|---------------|
-| 2025 | **Paper Title A** | IEEE VR |
-| 2024 | **Paper Title B** | Nature Medicine |
-| …    | … | … |
+| 2025 | SIT at MixMT 2022: Fluent Translation Built on Giant Pre-trained Models | EMNLP 2022 SEVENTH CONFERENCE ON MACHINE TRANSLATION (WMT22) |
 
-<sub>*Full publication list on [Google Scholar](https://scholar.google.com/citations?user=XXXX).* </sub>
+<sub>*Full publication list on [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=Xm7WY4QAAAAJ).* </sub>
 
 ---
 
 ## Projects
 | Project | Brief Description | Links |
 |---------|------------------|-------|
-| **Project Alpha** | Real-time 3D human pose estimation from depth & RGB. | [Code](https://github.com/you/project-alpha) · [Demo](https://youtu.be/xxxxx) |
-| **Project Beta** | Secure teledentistry referral platform (HIPAA compliant). | [White paper](link) |
+| **Project Alpha** | Real-time 3D human pose estimation from depth & RGB. | [Code](https://github.com/rishik18/3D_task_guidance_and_scene_representation) |
+| **Project Beta** | Secure teledentistry referral platform (HIPAA compliant). | [Demo](https://github.com/rishik18/3D_task_guidance_and_scene_representation) |
 | **Project Gamma** | <One-liner> | — |
 
 ---
