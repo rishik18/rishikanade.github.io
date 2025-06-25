@@ -57,13 +57,12 @@ When I’m not coding, you’ll find me playing guitar and playing videogames.
 | Project | Brief Description | Links |
 |---------|------------------|-------|
 | **Project Alpha** | Real-time 3D human pose estimation from depth & RGB. | [Code](https://github.com/rishik18/3D_task_guidance_and_scene_representation) |
-| **Project Beta** | Secure teledentistry referral platform (HIPAA compliant). | [Demo](https://github.com/rishik18/3D_task_guidance_and_scene_representation) |
-| **Project Gamma** | <One-liner> | — |
 
 ---
 
 ## Tech Stack
 ```text
-Languages : Python · C++ · JavaScript/TypeScript · Markdown
-ML / CV   : PyTorch · TensorFlow · OpenCV · Open3D · SMPL · CLIFF
-Tools     : Docker · Git · Kubernetes · Blender · Unity
+Languages : Python · C · SQL ·Embedded C · C++ · C# · Markdown
+ML / CV   : PyTorch · TensorFlow · MLflow · SKlearn
+Tools     : MLflow · Apache Spark · Docker · Git · Kubernetes · Blender · Unity
+Cloud platforms: Amazon Web Services (AWS) · Microsoft Azure · Databricks
