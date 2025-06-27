@@ -1,7 +1,7 @@
 <!-- ——— HEADER ——— -->
 
-<h1 align="center">Hi, I’m Rishi 👋</h1>
-<p align="center"><em>Researcher • Developer • Inventor</em><br>Building reliable AI &amp; 3D vision systems that bridge the physical and digital worlds.</p>
+<h1 align="center">Rishi Kanade</h1>
+<p align="center"><em>Researcher • Developer • Inventor</em><br>Building reliable AI systems that bridge the physical and digital worlds.</p>
 
 <!-- Social / contact buttons -->
 
@@ -118,9 +118,14 @@ Cloud          : AWS • Microsoft Azure • Databricks
 
 ---
 
-## Talks & Teaching
+## Teaching Assistantships
 
-*Coming soon…*
+| Course            | Semester                                    | Technologies                                                                         |
+| ----------------- | ---------------------------------------------------- | ----------------------------------------------------------------------------- |
+| Introduction to game design | Summer 2022 | Unity, C# |
+| Deep Learning | Fall 2022 | Neural networks, transformers|
+| Artificial Intelligence | Spring 2024 | Machine learning, Neural networks |
+| Knowledge discovery and data mining | Fall 2024 | Data analysis, Data engineering|
 
 ---
 
