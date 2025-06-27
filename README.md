@@ -82,7 +82,39 @@ Cloud          : AWS • Microsoft Azure • Databricks
 
 ## Experience
 
-*Coming soon…*
+### Graduate Research Assistant — Machine Learning
+
+*Stevens Institute of Technology, Hoboken, NJ*
+**Jan 2023 – Present**
+
+* Fine‑tuned LLMs (mT5‑XL/XXL) and led the team that placed **🏆 1st** in WMT '22 code‑mixed MT.
+* Orchestrated LLM A/B testing, scaling & AWS rollout that secured **2nd place** in Alexa Prize SocialBot 5.
+* Built a 3D scene‑representation toolkit adopted by three ARPA‑H PARADIGM teams.
+* Designed a CLIP‑powered action‑recognition pipeline for DARPA Perceptual Task Guidance.
+
+### Software Engineer
+
+*Larsen & Toubro Mindtree Ltd., Chennai, India*
+**Jul 2021 – Dec 2021**
+
+* Boosted ANPR/OCR accuracy on Indian multilingual plates from 67 % → 91 %.
+* Containerized CV apps to detect drowsiness & fraud on construction truck scales.
+
+### Senior Engineer — IoT
+
+*Larsen & Toubro NXT, Chennai, India*
+**Sep 2019 – Jul 2021**
+
+* Delivered subscription‑based IoT & predictive‑maintenance platform on RTCU edge devices.
+* Invented a fuzzy‑logic model that raised fuel‑use accuracy from 72 % → 94 % and enabled pilferage alerts.
+* Built Spark + MLflow ETL pipeline on Azure Databricks to deploy anomaly‑detection models.
+
+### R\&D Engineer
+
+*Dynamic Crane Engineers Pvt. Ltd., Pune, India*
+**Feb 2018 – Apr 2019**
+
+* Shipped proof‑of‑concept IoT monitoring system for crawler cranes within 3 months.
 
 ---
 
