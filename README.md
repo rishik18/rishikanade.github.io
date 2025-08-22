@@ -6,7 +6,7 @@
 <!-- Social / contact buttons -->
 
 <p align="center">
-  <a href="mailto:rishikanade@outlook.com"><img src="https://img.shields.io/badge/Email-hkanade@stevens.edu-informational?style=flat-square&logo=gmail" alt="Email"></a>
+  <a href="mailto:rishikanade@outlook.com"><img src="https://img.shields.io/badge/Email-rishikanade@outlook.com-informational?style=flat-square&logo=gmail" alt="Email"></a>
   <a href="https://www.linkedin.com/in/rishi-kanade-43723399/"><img src="https://img.shields.io/badge/LinkedIn-hrishikesh--kanade-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://scholar.google.com/citations?user=Xm7WY4QAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat-square&logo=googlescholar" alt="Google Scholar"></a>
 </p>
