@@ -65,7 +65,7 @@ When I’m not coding, you’ll usually find me strumming a guitar or exploring 
 
 | Project           | Brief Description                                    | Links                                                                         |
 | ----------------- | ---------------------------------------------------- | ----------------------------------------------------------------------------- |
-| **Project Alpha** | Real‑time 3D human‑pose estimation from depth & RGB. | [Code](https://github.com/rishik18/3D_task_guidance_and_scene_representation) |
+| **3D task guidance toolkit** | Real‑time 3D human‑pose estimation from depth & RGB. | [Code](https://github.com/rishik18/3D_task_guidance_and_scene_representation) |
 
 ---
 
@@ -74,8 +74,8 @@ When I’m not coding, you’ll usually find me strumming a guitar or exploring 
 ```text
 Languages      : Python • C • C++ • C# • SQL • Embedded C • Markdown
 ML / CV        : PyTorch • TensorFlow • scikit‑learn • MLflow
-Tools & DevOps : MLflow • Apache Spark • Docker • Git • Kubernetes • Blender • Unity
-Cloud          : AWS • Microsoft Azure • Databricks
+Tools & DevOps : MLflow • Ray •Apache Spark • Docker • Git • Kubernetes • Blender • Unity
+Cloud          : AWS • Microsoft Azure • Databricks • Anyscale
 ```
 
 ---
@@ -137,4 +137,4 @@ You can always reach me via [email](mailto:hkanade@stevens.edu) or on [LinkedIn]
 
 ## Colophon
 
-This profile README was generated with ❤️ using Markdown & a dash of HTML.
+This profile README was generated using Markdown & a dash of HTML.
