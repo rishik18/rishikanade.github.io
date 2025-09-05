@@ -21,7 +21,7 @@
 4. [Projects](#projects)
 5. [Tech Stack](#tech-stack)
 6. [Experience](#experience)
-7. [Talks & Teaching](#talks--teaching)
+7. [Teaching Assistantships](#teaching-assistantships)
 8. [Get in Touch](#get-in-touch)
 9. [Colophon](#colophon)
 
@@ -55,7 +55,7 @@ When I’m not coding, you’ll usually find me strumming a guitar or exploring 
 
 | Year | Title                                                                     | Venue       |
 | ---- | ------------------------------------------------------------------------- | ----------- |
-| 2025 | *SIT at MixMT 2022: Fluent Translation Built on Giant Pre‑trained Models* | EMNLP WMT22 |
+| 2022 | *SIT at MixMT 2022: Fluent Translation Built on Giant Pre‑trained Models* | EMNLP WMT22 |
 
 <sub>📒 Full publication list on <a href="https://scholar.google.com/citations?user=Xm7WY4QAAAAJ">Google Scholar</a>.</sub>
 
@@ -69,13 +69,13 @@ When I’m not coding, you’ll usually find me strumming a guitar or exploring 
 
 ---
 
-## Tech Stack
+## Tech Stack
 
 ```text
-Languages      : Python • C • C++ • C# • SQL • Embedded C • Markdown
+Languages      : Python • C • Embedded C • C# • Markdown
 ML / CV        : PyTorch • TensorFlow • scikit‑learn • MLflow
-Tools & DevOps : MLflow • Ray •Apache Spark • Docker • Git • Kubernetes • Blender • Unity
-Cloud          : AWS • Microsoft Azure • Databricks • Anyscale
+Tools & DevOps : Ray •Apache Spark • Docker • Git • Blender • Unity • ROS 2
+Cloud          : AWS • Databricks • Anyscale
 ```
 
 ---
@@ -98,16 +98,15 @@ Cloud          : AWS • Microsoft Azure • Databricks • Anyscale
 **Jul 2021 – Dec 2021**
 
 * Boosted ANPR/OCR accuracy on Indian multilingual plates from 67 % → 91 %.
-* Containerized CV apps to detect drowsiness & fraud on construction truck scales.
+* Deployed CV apps to detect drowsiness & fraud on construction truck scales.
 
 ### Senior Engineer — IoT
 
 *Larsen & Toubro NXT, Chennai, India*
 **Sep 2019 – Jul 2021**
 
-* Delivered subscription‑based IoT & predictive‑maintenance platform on RTCU edge devices.
-* Invented a fuzzy‑logic model that raised fuel‑use accuracy from 72 % → 94 % and enabled pilferage alerts.
-* Built Spark + MLflow ETL pipeline on Azure Databricks to deploy anomaly‑detection models.
+* Engineered anomaly detection & predictive‑maintenance platform on RTOS RTCU edge devices.
+* Developed an innovative fuzzy‑logic model that raised fuel‑use accuracy measurement from 72 % → 94 % and enabled pilferage alerts.
 
 ### R\&D Engineer
 
